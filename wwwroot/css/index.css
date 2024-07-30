@@ -1,0 +1,38 @@
+﻿body {
+    background: linear-gradient(to right, #ff7e5f, #feb47b); /* Background gradient */
+    font-family: Arial, sans-serif;
+}
+
+.table {
+            
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+
+    .table th, .table td {
+        border: 1px solid #ddd;
+        padding: 8px;
+    }
+
+    .table th {
+   
+        text-align: left;
+    }
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 14px;
+    color: white;
+    background-color: #007bff;
+    border: none;
+    border-radius: 4px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+    .button:hover {
+        background-color: purple ;
+    }

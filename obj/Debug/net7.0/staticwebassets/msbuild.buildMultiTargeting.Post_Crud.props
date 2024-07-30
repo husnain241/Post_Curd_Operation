@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Post_Crud.props" />
+</Project>
